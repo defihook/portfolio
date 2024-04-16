@@ -13,8 +13,6 @@ Players can purchase these loot boxes using Solana's native cryptocurrency and u
 
 The project aims to leverage Solana's high-performance blockchain technology to offer players a seamless and secure gaming experience with transparent ownership of digital assets. Through the integration of decentralized finance (DeFi) principles, players can participate in the game's economy, trade assets on decentralized exchanges, and potentially earn rewards through staking or liquidity provision.
 
-- fe-repo: <a href="https://github.com/asseph/elemental-lootboxes-fe">elemental-lootboxes-fe</a>
-- smart contract: <a href="https://github.com/asseph/elemental-lootboxes-sc">elementals-lootboxes-contract</a>
 
 <h3><u><strong><i>E7L</i></strong></u> &nbsp;- Rust smart contract</h3>
 <hr />
@@ -32,7 +30,6 @@ Instructions will be link, unlink, sync same as in erc721 example
 - Unlink unfreezes and removes PDA delegate again
 - Sync looks at a linked NFT of a main NFT. If the main NFT has a different owner than the linked NFT, the linked NFT is transferred to the new main NFT owner
 
-- contract-repo: <a href="https://github.com/asseph/E7L-S-Protocol">E7L-Solana protocol</a>
 
 <h3><u><strong><i>Elementals-Staking</i></strong></u> &nbsp;- Staking Platform</h3>
 <hr />
@@ -43,8 +40,6 @@ Launch PFP staking functionality for users to stake their profile pictures and e
 Introduce different staking tiers with varying reward structures, encouraging long-term commitment
 
 - Live: <a href="https://staking.elementalsnft.io">Elementals-Staking</a>
-- fe-repo: <a href="https://github.com/asseph/elemental-staking-fe">elemental-staking-fe</a>
-- smart contract: <a href="https://github.com/asseph/elementals-staking-contract">elementals-staking-contract</a>
 
 <h3><u><strong><i>Gaimin-Portal</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
 <hr />
@@ -56,8 +51,6 @@ By earning Points you move up levels. Each level reached earns your shards into 
 You can earn points by interacting with GAIMIN Power Tweets (likes and replies, up to 1 reply per post). Power Tweets will only be live for a limited period after they’re posted. Engaging with them after that period will not earn you points.
 
 - Live: <a href="https://gaimin.io">Gaimin</a>
-- user-repo: <a href="https://github.com/asseph/gaimin-portal">Gaimin-Portal</a>
-- admin-repo: <a href="https://github.com/asseph/gaimin-admin">Gaimin-Admin</a>
 
 <h3><u><strong><i>T2E-Dapp</i></strong></u> &nbsp;- Tweet to Earn Platform</h3>
 <hr />
@@ -67,7 +60,6 @@ You can earn points by interacting with GAIMIN Power Tweets (likes and replies, 
 The vision of the project is to allow users to earn $ELMNT token by tweeting once per day for the public and twice for token holders.
 
 - Live: <a href="https://tweet2earn.xyz">Tweet2Earn</a>
-- repo: <a href="https://github.com/asseph/Elementals-V6">Elementals-T2E</a>
 
 <h3><u><strong><i>Under World Lending</i></strong></u> &nbsp; - Bitcoin Ordinal Platform</h3>
 <hr />
@@ -77,7 +69,6 @@ The vision of the project is to allow users to earn $ELMNT token by tweeting onc
 
 The goal of this platform is to develop a cutting-edge lending and borrowing platform specifically designed for Bitcoin Non-Fungible Tokens (NFTs). The platform will leverage the latest technologies and industry best practices to provide users with a seamless and secure experience.
 
-- repo: <a href="https://github.com/asseph/BTC-NFT-Lending">BTC-NFT-Lending</a>
 
 <h3><u><strong><i>JustShift</i></strong></u> &nbsp; - DEX (Bitcoin, Ethereum, Monero)</h3>
 <hr />
@@ -87,8 +78,6 @@ The goal of this platform is to develop a cutting-edge lending and borrowing pla
 The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience.
 
 - Live: <a href="https://justshift.io">JustShift</a>
-- Fe-repo: <a href="https://github.com/asseph/MetaSwap-FE">MetaSwap-FE</a>
-- Be-repo: <a href="https://github.com/asseph/MetaSwap-BE">MetaSwap-BE</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 
@@ -101,8 +90,6 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/asseph/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/asseph/sprite-box-backend">Spritebox-brontend</a>
 
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -114,8 +101,6 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
-- Contract program repo: <a href="https://github.com/asseph/hoopas-staking">Hoopas-lock-contract</a>
-- Frontend repo: <a href="https://github.com/asseph/hoopas">Hoopas-lock-frontend</a>
 
 <br/>
 
@@ -131,8 +116,6 @@ I built backend & smart contract as well as supported web3 integration to front-
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/asseph/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/asseph/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
@@ -146,8 +129,6 @@ I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/asseph/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/asseph/SoblinsStaking-FE">SoblinsStaking-frontend</a>
 
 
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
@@ -161,10 +142,6 @@ Users must get `$Java` to play and roll the dice. And users can stake/unstake NF
 I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/asseph/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/asseph/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/asseph/monopoly-frontend">monopoly-frontend</a>
 
 
 <h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
@@ -176,8 +153,6 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Frontend repo: <a href="https://github.com/asseph/deezkits-fe">deezkits-fe</a>
-- Smart contract repo: <a href="https://github.com/asseph/deezkits-contract">deezkits-contract</a>
 
 
 
@@ -197,10 +172,6 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
     - Avalanche network
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/asseph/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/asseph/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/asseph/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -218,7 +189,6 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/asseph/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -246,7 +216,6 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
       - 25% bonus on the sum of the rarity multiplier.
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
-- Github Repo: <a href="https://github.com/asseph/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
 <h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -272,7 +241,6 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://www.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/asseph/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -305,7 +273,6 @@ Staking an SPL token "FLWR"
   - transaction fee - 0.1 sol
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/asseph/FLWR-staking" target="_blank">FLWR-staking</a>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -327,7 +294,6 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
   - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
   - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
   - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-- Github repo: <a href="https://github.com/asseph/raffle-auction-brains-">Sol flowers raffle</a>
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -349,7 +315,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/asseph/EU-raffle" target="_blank">EU-raffle</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -367,7 +332,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/asseph/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
 <h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -386,7 +350,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/asseph/Apex-Raffle">Apex-Raffle</a>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -406,7 +369,6 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/asseph/auction-doge">auction-doge</a>
   - Project Structure:
     - Auction contract, Api, Front-end
 
@@ -428,7 +390,6 @@ Now we are adding more features for Nanas.
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
   
-- Git repo: <a href="https://github.com/asseph/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -447,7 +408,6 @@ Now we are adding more features for Nanas.
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/asseph/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
 
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
@@ -461,7 +421,6 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/asseph/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -472,7 +431,6 @@ IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashi
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/asseph/IconFashion" target="_blank">IconGirl</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -484,7 +442,6 @@ IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashi
 - What is `97 Universe` ?
   - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/asseph/Universe97" target="_blank">Universe97</a>
 
 <h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -495,4 +452,3 @@ IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashi
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/asseph/token-list" target="_blank">Space Parts</a>
